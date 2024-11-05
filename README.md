@@ -11,7 +11,7 @@
  - I’m looking to collaborate on Python projects
 
 
- - Fun fact: you've never seen my Profile before
+ - Fun fact: You've never seen my Profile before
 
 ![Code dragon Axion](https://github.com/user-attachments/assets/c20877e6-0b75-4a73-a411-64226cdf279f)
 
