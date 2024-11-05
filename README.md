@@ -4,7 +4,7 @@ I’m interested in Reverse Engineering
 
 I’m currently learning Python
 
-I’m looking to collaborate on PYthon projects
+I’m looking to collaborate on Python projects
 
 Fun fact: you've never seen my Profile before
 
