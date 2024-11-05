@@ -7,9 +7,11 @@
 
 I’m currently learning Python
 
+
 I’m looking to collaborate on Python projects
 
-<2>Fun fact: you've never seen my Profile before
+
+<h2>Fun fact: you've never seen my Profile before
 
 <!---
 MB-RevEngineer/MB-RevEngineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
