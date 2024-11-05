@@ -1,4 +1,4 @@
-![Code Dragon](https://github.com/user-attachments/assets/f2d26c60-5085-4f60-b271-41b7252012e9)
+![Code Dragon 2](https://github.com/user-attachments/assets/d77fc367-b147-48a2-89a6-67a7f011ce0d)
 
 # 👋 Hi, I’m MB-RevEngineer
 
@@ -12,6 +12,8 @@
 
 
  - Fun fact: you've never seen my Profile before
+ - 
+![Code dragon Axion](https://github.com/user-attachments/assets/c20877e6-0b75-4a73-a411-64226cdf279f)
 
 <!---
 MB-RevEngineer/MB-RevEngineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
