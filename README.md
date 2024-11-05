@@ -1,17 +1,17 @@
 ![Code Dragon](https://github.com/user-attachments/assets/f2d26c60-5085-4f60-b271-41b7252012e9)
 
-<h1>👋 Hi, I’m @MB-RevEngineer
+👋 Hi, I’m @MB-RevEngineer
 
-<h3>(2)I’m interested in Reverse Engineering <br>
-
-
-(2)I’m currently learning Python
+## I’m interested in Reverse Engineering <br>
 
 
-(3)I’m looking to collaborate on Python projects
+# I’m currently learning Python
 
 
-<h2>Fun fact: you've never seen my Profile before
+# I’m looking to collaborate on Python projects
+
+
+## Fun fact: you've never seen my Profile before
 
 <!---
 MB-RevEngineer/MB-RevEngineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
