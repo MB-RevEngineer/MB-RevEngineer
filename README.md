@@ -2,16 +2,16 @@
 
 # 👋 Hi, I’m MB-RevEngineer
 
-# I’m interested in Reverse Engineering <br>
+- I’m interested in Reverse Engineering <br>
 
 
-### I’m currently learning Python
+ - I’m currently learning Python
 
 
-### I’m looking to collaborate on Python projects
+ - I’m looking to collaborate on Python projects
 
 
-## Fun fact: you've never seen my Profile before
+ - Fun fact: you've never seen my Profile before
 
 <!---
 MB-RevEngineer/MB-RevEngineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
