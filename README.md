@@ -2,13 +2,13 @@
 
 <h1>👋 Hi, I’m @MB-RevEngineer
 
-<h6>I’m interested in Reverse Engineering
+<h3>I’m interested in Reverse Engineering
 
 I’m currently learning Python
 
 I’m looking to collaborate on Python projects
 
-Fun fact: you've never seen my Profile before
+<2>Fun fact: you've never seen my Profile before
 
 <!---
 MB-RevEngineer/MB-RevEngineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
