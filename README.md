@@ -2,13 +2,13 @@
 
 <h1>👋 Hi, I’m @MB-RevEngineer
 
-<h3>I’m interested in Reverse Engineering <br>
+(1)<h3>I’m interested in Reverse Engineering <br>
 
 
-I’m currently learning Python
+(2)I’m currently learning Python
 
 
-I’m looking to collaborate on Python projects
+(3)I’m looking to collaborate on Python projects
 
 
 <h2>Fun fact: you've never seen my Profile before
