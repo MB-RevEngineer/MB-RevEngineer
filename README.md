@@ -2,7 +2,7 @@
 
 <h1>👋 Hi, I’m @MB-RevEngineer
 
-(1)<h3>I’m interested in Reverse Engineering <br>
+<h3>(2)I’m interested in Reverse Engineering <br>
 
 
 (2)I’m currently learning Python
