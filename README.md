@@ -1,7 +1,8 @@
 ![Code Dragon 2](https://github.com/user-attachments/assets/d77fc367-b147-48a2-89a6-67a7f011ce0d)
 <br>
-<div style="text-align: center;">
-<h3>Hello and welcome, I'm <b>MB-RevEngineer</b></h3></div>
+<center>
+<h3>Hello and welcome, I'm <b>MB-RevEngineer</b></h3>
+</center>
 <br>
 <p align="center">
  I am currently on the long road to becoming a <b>reverse</B>- and <b>full-stack engineer</b>. I'm still in the beginning of my journey. 
