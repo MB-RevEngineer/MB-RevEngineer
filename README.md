@@ -13,13 +13,21 @@ I’m currently <b>learning how to use</b>:
 <br> 
 <br> 
 &nbsp; 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
 &nbsp; 
 <img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff"> 
 &nbsp; 
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
 &nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff">
+&nbsp; 
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff">
+&nbsp;
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
+&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+&nbsp;
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">
 </p>
 <br>
 <p align="center">
@@ -44,7 +52,7 @@ I’m looking to collaborate on <b>Python</b>, <b>Web-Designing</b> and <b>3D Mo
 <img src="https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white">
 </p>
 <p align="center">
-<b>Things from which I know something from:</b>
+<b>Software from which I know some thing about:</b>
 <br>
 <br>
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white">
@@ -59,6 +67,7 @@ I’m looking to collaborate on <b>Python</b>, <b>Web-Designing</b> and <b>3D Mo
 <p align="center">
 <a href="https://www.youtube.com/@Mars-Nexus" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white">
+<img src="https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg">
 </a>
 <br>
 <br>
