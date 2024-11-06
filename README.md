@@ -14,7 +14,7 @@
  - Fun fact: You've never seen my Profile before
    
 
- - [Youtube](youtube.com/@Mars_Nexus)
+ - [Youtube](https://www.youtube.com/@Mars-Nexus)
 
 ![Code dragon Axion](https://github.com/user-attachments/assets/c20877e6-0b75-4a73-a411-64226cdf279f)
 
