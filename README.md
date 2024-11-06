@@ -70,9 +70,8 @@ I’m looking to collaborate on <b>Python</b>, <b>Web-Designing</b> and <b>3D Mo
 <p align="center">
 <b>You can follow me and my Projects on:</b>
 <p align="center">
-<a href="https://www.youtube.com/@Mars-Nexus" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white">
-</a>
+<a href="https://www.youtube.com/@Mars-Nexus" target="blank">
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
 &nbsp;
 <img src="https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg">
 </a>
