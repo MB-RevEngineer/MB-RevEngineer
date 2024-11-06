@@ -56,10 +56,15 @@ I’m looking to collaborate on <b>Python</b>, <b>Web-Designing</b> and <b>3D Mo
 <br>
 <br>
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white">
-<img src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white"> 
+&nbsp;
+<img src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white">
+&nbsp; 
 <img src="https://img.shields.io/badge/Adobe%20After%20Effects-CF96FD?logo=Adobe%20After%20Effects&logoColor=393665">
+&nbsp;
 <img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white">
+&nbsp;
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">
+&nbsp;
 <img src="https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black">
 </p> 
 <p align="center">
@@ -67,6 +72,7 @@ I’m looking to collaborate on <b>Python</b>, <b>Web-Designing</b> and <b>3D Mo
 <p align="center">
 <a href="https://www.youtube.com/@Mars-Nexus" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white">
+</a>
 &nbsp;
 <img src="https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg">
 </a>
