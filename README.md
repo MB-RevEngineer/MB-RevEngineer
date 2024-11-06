@@ -2,9 +2,9 @@
 
 <br>
 <div align="center">
-  <h3>Hello and welcome, I'm <b>MB-RevEngineer</b></h3>
+  <h2>Hello and welcome, I'm <b>MB-RevEngineer</b></h2>
 </div>
-</p>
+<br>
 <br>
 <p align="center">
  I am currently on the long road to becoming a <b>reverse</B>- and <b>full-stack engineer</b>. I'm still in the beginning of my journey. 
