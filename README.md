@@ -13,21 +13,21 @@ I’m currently <b>learning how to use</b>:
 <br> 
 <br> 
 &nbsp; 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python">
 &nbsp; 
-<img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff"> 
+<img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff" alt="Pycharm"> 
 &nbsp; 
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="Github"> 
 &nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff">
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git">
 &nbsp; 
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"alt="Bootstrap">
 &nbsp;
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML5">
 &nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="Javascript">
 &nbsp;
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" alt="CSS">
 </p>
 <br>
 <p align="center">
@@ -43,37 +43,37 @@ I’m looking to collaborate on <b>Python</b>, <b>Web-Designing</b> and <b>3D Mo
 <br> 
 <br> 
 &nbsp; 
-<img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white"> 
+<img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" alt="Windows"> 
 &nbsp; 
-<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"> 
+<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu"> 
 &nbsp; 
-<img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"> 
+<img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android"> 
 &nbsp; 
-<img src="https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white">
+<img src="https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white" alt="Apple">
 </p>
 <p align="center">
 <b>Software from which I know some thing about:</b>
 <br>
 <br>
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white">
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white" alt="Canva">
 &nbsp;
-<img src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white">
+<img src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white" alt="Blender">
 &nbsp; 
-<img src="https://img.shields.io/badge/Adobe%20After%20Effects-CF96FD?logo=Adobe%20After%20Effects&logoColor=393665">
+<img src="https://img.shields.io/badge/Adobe%20After%20Effects-CF96FD?logo=Adobe%20After%20Effects&logoColor=393665" alt="Adobe After Effects">
 &nbsp;
-<img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white">
+<img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white" alt="UEngine">
 &nbsp;
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" alt="Logo Openai">
 &nbsp;
-<img src="https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black">
+<img src="https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black" alt="CodePen Badge">
 </p> 
 <p align="center">
 <b>You can follow me and my Projects on:</b>
 <p align="center">
 <a href="https://www.youtube.com/@Mars-Nexus" target="blank">
-<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="Youtube"></a>
 &nbsp;
-<img src="https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg">
+<img src="https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg" alt="Server coming soon">
 </a>
 <br>
 <br>
