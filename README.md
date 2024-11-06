@@ -13,21 +13,21 @@ I’m currently <b>learning how to use</b>:
 <br> 
 <br> 
 &nbsp; 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python">
+<img src="assets/Python.svg" alt="Python">
 &nbsp; 
-<img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff" alt="Pycharm"> 
+<img src="assets/Pycharm.svg" alt="Pycharm"> 
 &nbsp; 
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="Github"> 
+<img src="assets/Github.svg" alt="Github"> 
 &nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git">
+<img src="assets/Git.svg" alt="Git">
 &nbsp; 
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"alt="Bootstrap">
+<img src="assets/Bootstrap.svg"alt="Bootstrap">
 &nbsp;
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML5">
+<img src="assets/html.svg" alt="HTML5">
 &nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="Javascript">
+<img src="assets/Javascript.svg" alt="Javascript">
 &nbsp;
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" alt="CSS">
+<img src="assets/CSS.svg" alt="CSS">
 </p>
 <br>
 <p align="center">
@@ -43,29 +43,29 @@ I’m looking to collaborate on <b>Python</b>, <b>Web-Designing</b> and <b>3D Mo
 <br> 
 <br> 
 &nbsp; 
-<img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" alt="Windows"> 
+<img src="assets/Windows.svg" alt="Windows"> 
 &nbsp; 
-<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu"> 
+<img src="assets/Ubuntu.svg" alt="Ubuntu"> 
 &nbsp; 
-<img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android"> 
+<img src="assets/Android.svg" alt="Android"> 
 &nbsp; 
-<img src="https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white" alt="Apple">
+<img src="assets/IOS.svg" alt="Apple">
 </p>
 <p align="center">
 <b>Software from which I know some thing about:</b>
 <br>
 <br>
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white" alt="Canva">
+<img src="assets/Canva.svg" alt="Canva">
 &nbsp;
-<img src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white" alt="Blender">
+<img src="assets/Blender.svg" alt="Blender">
 &nbsp; 
-<img src="https://img.shields.io/badge/Adobe%20After%20Effects-CF96FD?logo=Adobe%20After%20Effects&logoColor=393665" alt="Adobe After Effects">
+<img src="assets/AdobeAE.svg" alt="Adobe After Effects">
 &nbsp;
-<img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white" alt="UEngine">
+<img src="assets/Unreal.svg" alt="UEngine">
 &nbsp;
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" alt="Logo Openai">
+<img src="assets/Chatgpt.svg" alt="Logo Openai">
 &nbsp;
-<img src="https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black" alt="CodePen Badge">
+<img src="assets/Codepen.svg" alt="CodePen Badge">
 </p> 
 <p align="center">
 <b>You can follow me and my Projects on:</b>
@@ -73,7 +73,7 @@ I’m looking to collaborate on <b>Python</b>, <b>Web-Designing</b> and <b>3D Mo
 <a href="https://www.youtube.com/@Mars-Nexus" target="blank">
 <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="Youtube"></a>
 &nbsp;
-<img src="https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg" alt="Server coming soon">
+<img src="assets/Websitedown.svg" alt="Server coming soon">
 </a>
 <br>
 <br>
