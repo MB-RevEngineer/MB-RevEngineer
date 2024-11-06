@@ -67,6 +67,7 @@ I’m looking to collaborate on <b>Python</b>, <b>Web-Designing</b> and <b>3D Mo
 <p align="center">
 <a href="https://www.youtube.com/@Mars-Nexus" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white">
+&nbsp;
 <img src="https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg">
 </a>
 <br>
